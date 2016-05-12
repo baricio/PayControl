@@ -155,6 +155,7 @@ return [
         paycontrol\Providers\AuthServiceProvider::class,
         paycontrol\Providers\EventServiceProvider::class,
         paycontrol\Providers\RouteServiceProvider::class,
+        Bestmomo\Scafold\ScafoldServiceProvider::class,
 
     ],
 
